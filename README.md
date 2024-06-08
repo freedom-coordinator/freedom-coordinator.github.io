@@ -6,7 +6,7 @@ Free as in free to use - **0% coordinator fee**, you only pay for network fees!
 We do not and never will blacklist UTXOs!  
 Other coordinators can be found at [wabisator.com](https://wabisator.com/)
 
-## Usage 🔧
+## ⚙️ How To Use
 
 To use Freedom coordinator as Wasabi Wallet coinjoin coordinator
 - Update Wasabi Wallet to newest version
