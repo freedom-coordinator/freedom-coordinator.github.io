@@ -1,6 +1,6 @@
 # 🕊️ Freedom Coordinator
 
-As of June 1st of 2024, the default [Wasabi Wallet](https://wasabiwallet.io/) [coinjoin](#what-is-a-coinjoin-) coordinator will [cease to operate](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)  
+As of June 1st of 2024, the default [Wasabi Wallet](https://wasabiwallet.io/) [coinjoin](#what-is-a-coinjoin-) coordinator will [cease to operate](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/).  
 Freedom coordinator is an **alternative coinjoin coordinator**.  
 Free as in free to use - **0% coordinator fee**, you only pay for network fees!  
 We do not and never will blacklist UTXOs!  
@@ -18,7 +18,7 @@ To use Freedom coordinator as Wasabi Wallet coinjoin coordinator
 
 ![Settings -> Bitcoin](./settings-bitcoin-3.png)
 
-## What is a coinjoin? 🤷
+## ❓ What is a coinjoin?
 
 From Wasabi Wallet [docs](https://docs.wasabiwallet.io/using-wasabi/CoinJoin.html)
 > A [coinjoin](https://en.bitcoin.it/Privacy#CoinJoin) is a special Bitcoin transaction where several peers get together to literally join their coins in a single transaction. They collaboratively build a transaction where each of them provides some coins as inputs, and fresh addresses as outputs. The concept has been around since the early days of Bitcoin, and it was formalized by the great Greg Maxwell in [this awesome introductory thread](https://bitcointalk.org/index.php?topic=279249.msg2983902).  
