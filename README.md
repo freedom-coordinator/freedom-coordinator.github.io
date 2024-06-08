@@ -1,4 +1,4 @@
-# Freedom coordinator 🐉
+# Freedom Coordinator 🐉
 
 As of June 1st of 2024 the default [Wasabi Wallet](https://wasabiwallet.io/) [coinjoin](#what-is-a-coinjoin-) coordinator will [cease to operate](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)  
 Freedom coordinator is an **alternative coinjoin coordinator**  
