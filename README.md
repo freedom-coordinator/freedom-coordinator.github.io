@@ -1,7 +1,7 @@
-# Freedom Coordinator 🐉
+# 🕊️ Freedom Coordinator
 
-As of June 1st of 2024 the default [Wasabi Wallet](https://wasabiwallet.io/) [coinjoin](#what-is-a-coinjoin-) coordinator will [cease to operate](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)  
-Freedom coordinator is an **alternative coinjoin coordinator**  
+As of June 1st of 2024, the default [Wasabi Wallet](https://wasabiwallet.io/) [coinjoin](#what-is-a-coinjoin-) coordinator will [cease to operate](https://blog.wasabiwallet.io/zksnacks-is-discontinuing-its-coinjoin-coordination-service-1st-of-june/)  
+Freedom coordinator is an **alternative coinjoin coordinator**.  
 Free as in free to use - **0% coordinator fee**, you only pay for network fees!  
 We do not and never will blacklist UTXOs!  
 Other coordinators can be found at [wabisator.com](https://wabisator.com/)
